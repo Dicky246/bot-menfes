@@ -1,0 +1,16 @@
+2023-01-01T23:01:54: PM2 log: ===============================================================================
+2023-01-01T23:01:54: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-01-01T23:01:54: PM2 log: Time                 : Sun Jan 01 2023 23:01:54 GMT+0700 (Western Indonesia Time)
+2023-01-01T23:01:54: PM2 log: PM2 version          : 5.2.2
+2023-01-01T23:01:54: PM2 log: Node.js version      : 18.12.1
+2023-01-01T23:01:54: PM2 log: Current arch         : x64
+2023-01-01T23:01:54: PM2 log: PM2 home             : C:\Users\Dicky\.pm2
+2023-01-01T23:01:54: PM2 log: PM2 PID file         : C:\Users\Dicky\.pm2\pm2.pid
+2023-01-01T23:01:54: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2023-01-01T23:01:54: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2023-01-01T23:01:54: PM2 log: Application log path : C:\Users\Dicky\.pm2\logs
+2023-01-01T23:01:54: PM2 log: Worker Interval      : 30000
+2023-01-01T23:01:54: PM2 log: Process dump file    : C:\Users\Dicky\.pm2\dump.pm2
+2023-01-01T23:01:54: PM2 log: Concurrent actions   : 2
+2023-01-01T23:01:54: PM2 log: SIGTERM timeout      : 1600
+2023-01-01T23:01:54: PM2 log: ===============================================================================

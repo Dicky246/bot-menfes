@@ -6,7 +6,7 @@ var monoSpace = '```'
 
 exports.listmenu = (sender,prefix,ad,namenya,premnya,usernya,romnya,tanggal,jam,no) => {
 return`
-━━━❲ 𝘼𝙉𝙂𝙂𝘼-𝘽𝙊𝙏 ━━━
+━━━[ DICKY-BOT ]━━━
 
  𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢
  ID : @${sender.split('@')[0]}
@@ -726,12 +726,12 @@ return`──「 *MENU DONATE* 」──
 Hi *${cekName}* ${ucapanWaktu} 👋🏻
 
 *Payment pulsa*
-Number: 6287751970702
+Number: 083872850217
 A/N: __
 
 *Payment Dana*
-Number: 082180238576
-A/N: angga gat
+Number: 083146452092
+A/N: Dicky
 
 ${monoSpace}Terimakasih untuk kamu yang sudah donasi untuk perkembangan bot ini ^_^${monoSpace}
 
@@ -742,17 +742,17 @@ exports.infoOwner = () =>{
 return`──「 *INFO OWNER* 」──
 
  *Data Profil*
- • *Nama:* Angga
- • *Umur:* 16 tahun
- • *Hoby:* Turu/tiktok
- • *Askot:* Palembang
+ • *Nama:* Dicky
+ • *Umur:* 17 tahun
+ • *Hoby:* nyatir
+ • *Askot:* tebing tinggi
  • *Konten:* Creator
 
 _iam developer bot whatsapp._
 
  *Sosial Media*
  • *Whatsapp:* 6287751970702
- • *Youtube:* Angga_Chenel
+ • *Youtube:* -
  • *Github:* -
  `
 }

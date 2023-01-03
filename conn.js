@@ -198,7 +198,7 @@ await sleep(3000)
 var tt_res = await fetchJson(`https://saipulanuar.ga/api/download/tiktok2?url=${chats}&apikey=jPHjZpQF`)
 reply(`𝗧𝗜𝗞𝗧𝗢𝗞 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗
 
-𝘼𝙪𝙩𝙝𝙤𝙧: Angga Official
+𝘼𝙪𝙩𝙝𝙤𝙧: someone
 𝙅𝙪𝙙𝙪𝙡: ${tt_res.result.judul}
 𝙎𝙤𝙪𝙧𝙘𝙚: ${chats}
 
@@ -3733,7 +3733,7 @@ fetchJson(`https://saipulanuar.ga/api/download/tiktok2?url=${q}&apikey=dyJhXvqe`
 .then(tt_res => {
 reply(`𝗧𝗜𝗞𝗧𝗢𝗞 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗
 
-𝘼𝙪𝙩𝙝𝙤𝙧: Angga Official
+𝘼𝙪𝙩𝙝𝙤𝙧: someone
 𝙅𝙪𝙙𝙪𝙡: ${tt_res.result.judul}
 𝙎𝙤𝙪𝙧𝙘𝙚: ${q}
 
